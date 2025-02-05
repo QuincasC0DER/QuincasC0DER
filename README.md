@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @QuincasC0DER
+- 👋 Hi, I’m Lucas Quincas
 - 👀 I’m interested in ... networkin sharing expirience and knowlege of coding and programmer.
-- 🌱 I’m currently learning ... Python and web developer
+- 🌱 I’m currently learning ... Python and web developer , Java 
 - 💞️ I’m looking to collaborate on ... projects who using python and html/css
 - 📫 How to reach me ... On GitHUb and LINK-IN
-- 😄 Pronouns: ... Lucao 
+- 😄 Pronouns: ... Luca
 - ⚡ Fun fact: ... writter in free time.
 
 <!---
