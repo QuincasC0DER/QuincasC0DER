@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... projects who using python and html/css
 - 📫 How to reach me ... On GitHUb and LINK-IN
 - 😄 Pronouns: ... Luca
-- ⚡ Fun fact: ... writter in free time.
+- <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lucas-quincas-501a30215" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lucas-quincas-501a30215?trk=profile-badge">Lucas Quincas</a></div>
+              
 
 <!---
 QuincasC0DER/QuincasC0DER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
